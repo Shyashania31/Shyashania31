@@ -6,8 +6,8 @@
 I help turn communication goals into clear messages, visual stories, PR campaigns, and digital content that connect with audiences.
 
 [![Email](https://img.shields.io/badge/Email-ShaniaJulialmax%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ShaniaJulialmax@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shania%20Julialma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Creative%20%26%20PR%20Works-FF69B4?style=for-the-badge)](YOUR_PORTFOLIO_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shania%20Julialma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaniajulialma/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Creative%20%26%20PR%20Works-FF69B4?style=for-the-badge)](https://shyashania31.github.io/)
 
 </div>
 
