@@ -39,18 +39,40 @@ My portfolio combines creative design, campaign planning, public relations mater
 
 ## Tools & Platforms
 
-<p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=black" />
-</p>
+Klik badge di bawah untuk membuka website resmi masing-masing tools.
 
-Additional tools shown in my portfolio: **VN**, **Marvel**, and other mobile design/editing applications.
+<p>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  </a>
+  <a href="https://www.microsoft.com/en/microsoft-365/word" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  </a>
+  <a href="https://www.adobe.com/id_en/products/photoshop.html" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  </a>
+  <a href="https://www.adobe.com/id_en/products/premiere.html" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
+  </a>
+  <a href="https://www.capcut.com/tools/online-video-editor" target="_blank">
+    <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+  </a>
+  <a href="https://drive.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
+  </a>
+  <a href="https://docs.google.com/presentation/create" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=black" alt="Google Slides" />
+  </a>
+  <a href="https://vlognow.me/" target="_blank">
+    <img src="https://img.shields.io/badge/VN%20Editor-111111?style=for-the-badge&logo=video&logoColor=white" alt="VN Editor" />
+  </a>
+  <a href="https://marvelapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Marvel-1FB6FF?style=for-the-badge&logo=marvelapp&logoColor=white" alt="Marvel" />
+  </a>
+</p>
 
 ---
 
