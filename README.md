@@ -142,8 +142,8 @@ Here are repository ideas to organize this portfolio professionally on GitHub:
 
 📍 Serpong Utara, Tangerang Selatan  
 📧 **ShaniaJulialmax@gmail.com**  
-🔗 LinkedIn: `YOUR_LINKEDIN_URL_HERE`  
-🌐 Portfolio: `YOUR_PORTFOLIO_LINK_HERE`
+🔗 LinkedIn: `https://www.linkedin.com/in/shaniajulialma`  
+🌐 Portfolio: `https://shyashania31.github.io`
 
 ---
 
